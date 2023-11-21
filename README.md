@@ -10,7 +10,7 @@ This Airflow Directed Acyclic Graph (DAG) orchestrates the extraction, transform
 
 - Extract: Retrieve weather data for Houston from OpenWeatherMap API.
 - Transform: Convert the retrieved data into a structured format, transforming temperatures from Kelvin to Fahrenheit.
-- Load: Store the transformed data into PostgreSQL tables and upload joined data to an S3 bucket.
+- Load: Store the transformed data into PostgreSQL tables and creat joining data view.
 
 ### Prerequisites
 
