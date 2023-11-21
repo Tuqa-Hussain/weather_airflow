@@ -1,5 +1,6 @@
 # Weather_Data_Pipeline_with_Airflow
-![Uploading WhatsApp Image 2023-11-21 at 11.26.47_bdc18ad4.jpg…]()
+
+![WhatsApp Image 2023-11-21 at 11 26 47_bdc18ad4](https://github.com/Tuqa-Hussain/weather_airflow/assets/144988597/3eb606e5-451b-459a-af0b-0fd9115ea62b)
 
 
 This Airflow Directed Acyclic Graph (DAG) orchestrates the extraction, transformation, and loading (ETL) process of weather data from the OpenWeatherMap API into a PostgreSQL database.
